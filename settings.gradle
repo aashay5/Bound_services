@@ -1,0 +1,2 @@
+rootProject.name = "Bound_services"
+include ':app'
